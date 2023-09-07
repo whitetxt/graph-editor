@@ -1,0 +1,36 @@
+{
+	"version": 2,
+	"nodes": [
+		{
+			"_id": 22,
+			"position": [
+				204,
+				148
+			],
+			"name": "7",
+			"neighbours": [
+				{
+					"_id": 23,
+					"dist": 5.0
+				}
+			]
+		},
+		{
+			"_id": 23,
+			"position": [
+				454,
+				134
+			],
+			"name": "33",
+			"neighbours": [
+				{
+					"_id": 22,
+					"dist": 5.0
+				}
+			]
+		}
+	],
+	"start": 22,
+	"end": 23,
+	"lastId": 24
+}
