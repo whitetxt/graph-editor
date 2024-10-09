@@ -1,4 +1,4 @@
-# Dijkstra
+# Python Graph Editor
 
 Graph editor, with Dijkstra shortest-path calculation.
 
